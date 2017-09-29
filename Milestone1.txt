@@ -1,0 +1,32 @@
+*Team Name*
+A group of four guys came together on one soggy aftenoon to form Jelly Bear Studios. 
+
+*Team Members*
+Four Jelly Bears currently work at Jelly Bear Studios: Devin Arnold, Matt Coker, Chris Davidoff, Taylor Gunter.
+	*Do not refer to these four men as Jelly Bears when speaking to them-- it’s 		offensive and they just don’t like it.  
+
+*Description*
+	*Mobile Game
+	*Horde Mode
+	*2-D
+	*TopView
+
+*Vision Statement*
+
+*Motivation*
+
+*Risks*
+
+*Risk Mitigation Plan*
+
+*Version Control*
+Jelly Bears think github is cool, so they will use github as their version control method. A repositiory named 3308-group-project has been created for the team and has been cloned into everyone's local repositories
+
+*Development Method*
+It may seem counterintuitive to the shape of a Jelly Bear, but Jelly Bears prefer all things quick and agile. Therefore, Jelly Bear Studios develops games using the agile/scrum methodology. In the wild, Jelly Bears are unconventional, but when two or more gather they  immediately morph into a pack of sticky conformists. It’s not surprising then that Jelly Bear Studios will ’stick’ to the “Plan-Analysis-Design-Code-Test-Deploy” model. We plan to break the game into features such as the landscape, players, moves, and weapons. We will plan each feature, analyze the feasibilit, design the code structure, implement the code structure, test theature and commit to the master. We will do this until our sticky paws 
+
+When Jelly Bears develop games using the agile methodology they follow a strucutred sprint plan that lasts 
+
+*Collaboration Tool*
+Jelly Bear Studios uses Slack for all communication. 
+   
