@@ -1,0 +1,27 @@
+This is a list of project ideas:
+
+	*List app to replace wunderlist
+	
+	*Skratch -- mobile app game
+
+	*Handheld google maps that works on GPS w/o wifi connection
+	
+	*Bill Splitter
+
+	*Trivia game with news aggregator 
+
+	*Rate my professor for courses
+		* choose the university
+		* Desktop interface 
+
+	*Mobile game 
+		*Datawing 
+
+*Mobile Game is the winner!
+	
+	*Leaderboard
+	*Multiplayer
+	*2D darksouls zelda style 
+	*	
+
+
