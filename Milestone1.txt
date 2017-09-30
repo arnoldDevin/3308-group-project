@@ -2,22 +2,40 @@
 A group of four guys came together on one soggy aftenoon to form Jelly Bear Studios. 
 
 *Team Members*
-Four Jelly Bears currently work at Jelly Bear Studios: Devin Arnold, Matt Coker, Chris Davidoff, Taylor Gunter.
-	*Do not refer to these four men as Jelly Bears when speaking to them-- it’s 		offensive and they just don’t like it.  
+Those four sogsters are Devin Arnold, Matt Coker, Chris Davidoff, and Taylor Gunter.
 
 *Description*
-	*Mobile Game
-	*Horde Mode
-	*2-D
-	*TopView
+	Jelly Bear Studios will build a mobile game for their project. It will be in the horde mode style which means there will be a hero who’s task is to fight off the relentless onslaught of some of the most deformed and amorphous demon doggies mobile gaming has ever seen. The battle will take place in two dimensions, most likely in top view so that fans of Jelly Bear Studio games from around the would could peer over a giant screen and witness the battle firsthand.  
+	
+	The fighting style will be slash and dash, which means the hero wil be be able to slash and the hero will be able to dash. Jelly Bears love these types of games because Jelly Bears in the wild are not able to slash or dash due to their knobby arms and stubby legs. If a Jelly Bear tried to slash and dash it would like more like poke and waddle-- no 
+deformed and amorphous demon doggie has ever been defeated by poke and waddle. 
+
+Jelly Bear Studios makes indie games that are inspired by their favorite games. 
+
+Jelly Bear Studios seeks to deliver functional games above all else. The Jelly Bear boys are developing their game in a way that allows for gradual improvements. The first iteration has a single level, a hero and three deformed and amorphous demon doggies. There is one weapon, and a set amount of health, and there is a leader board that tracks the best performances in the game. 
 
 *Vision Statement*
+The fourth week of every September is devoted to vison casting for every Jelly Bear. This September the Jelly Bear vision was distilled down to: “Create a functional and fun game  experience, and prove to the world that no matter how amateur a Jelly Bear may appear he will create a truly sticky games. 
+
+
 
 *Motivation*
+The boys at Jelly Bear studios love video games, and they are going to take this opportunity to build one of their own. 
+
+“It’s true!
+
+We love games. We are going to take the things we know to be fun and entertaining about games and build them into our game. We want to build the kind of game we want to play and one that we are proud to share with our friends.”
+
+Additionally, we have found games are a great way to relieve stress and build problem solving skills, so they are the perfect outlet for the burgeoning engineer. 
 
 *Risks*
+The Jelly Bear boys have considered the risks in building a game. None of them have ever built a game before, so the learning curve will be steep. Other risks the Jelly Bear Boys considered are schedule restraints, and the constant problem of their keyboards getting gummed up from too much jamming.  
+
 
 *Risk Mitigation Plan*
+Jelly Bear Studios has a strong risk mitigation plan-- Google. Jk, but srs... there are numerous training modules and Youtube channels hosted by professional game developers with the focus of training up the next generation of mustached time thieving digital marauders. 
+
+The Jelly Bear boys will be using the Unity game engine as their development tool, and using the plethora of online resources to optimally use this tool and deliver a functional  game. 
 
 *Version Control*
 Jelly Bears think github is cool, so they will use github as their version control method. A repositiory named 3308-group-project has been created for the team and has been cloned into everyone's local repositories
@@ -25,8 +43,8 @@ Jelly Bears think github is cool, so they will use github as their version contr
 *Development Method*
 It may seem counterintuitive to the shape of a Jelly Bear, but Jelly Bears prefer all things quick and agile. Therefore, Jelly Bear Studios develops games using the agile/scrum methodology. In the wild, Jelly Bears are unconventional, but when two or more gather they  immediately morph into a pack of sticky conformists. It’s not surprising then that Jelly Bear Studios will ’stick’ to the “Plan-Analysis-Design-Code-Test-Deploy” model. We plan to break the game into features such as the landscape, players, moves, and weapons. We will plan each feature, analyze the feasibilit, design the code structure, implement the code structure, test theature and commit to the master. We will do this until our sticky paws 
 
-When Jelly Bears develop games using the agile methodology they follow a strucutred sprint plan that lasts 
+Jelly Bears Studios develops games using the agile methodology and they follow a structured sprint plan that lasts 1-3 weeks per sprint. They give bi-weekly check-ins on their progress. They value strong communication so that no one Jelly Bear goes off in his own direction jellying up the dev process for everyone else. 
 
 *Collaboration Tool*
-Jelly Bear Studios uses Slack for all communication. 
+Jelly Bear Studios uses Slack for all communication. We like to send pictures of stuff and things, and write each other nice messages. Jelly Bear Studio boys don’t use Slack after bedtime becasue Jelly Bear Studio boys need their sleep. 
    
